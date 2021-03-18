@@ -1,4 +1,4 @@
-## Meu Nome é Larissa, prazer! 👋
+## Meu nome é Larissa, prazer! 👋
 Tenho 18 anos e terminei recentemente meu curso de Informática na __ETEC Prof. Horácio Augusto da Silveira__ (São Paulo) 👩🏻‍🎓
 
 Atualmente estou trabalhando em projetos próprios e fazendo cursos pra ampliar meu conhecimento. 🖥
