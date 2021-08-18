@@ -1,21 +1,30 @@
-## Meu nome é Larissa, prazer! 👋
-Tenho 18 anos e terminei recentemente meu curso de Informática na __ETEC Prof. Horácio Augusto da Silveira__ (São Paulo) 👩🏻‍🎓
+<h2 style="text-align:center">Meu nome é Larissa, prazer! 👋</h2>
 
-Atualmente estou trabalhando em projetos próprios e fazendo cursos pra ampliar meu conhecimento. 🖥
+Tenho 18 anos, cursei Informática na __ETEC Prof. Horácio Augusto da Silveira__ 👩🏻‍🎓
 
-Tenho conhecimentos em:
-* HTML 
-* CSS
-* JavaScript 
-* C++ 
-* PHP 
-* C# 
-* MySQL
+Estou no primeiro semestre da minha graduação de __Análise e Desenvolvimento de Sistemas__ na universidade Cruzeiro do Sul 💫 
 
-No meu Trabalho de Conclusão de Curso, participei do time de back-end do sistema [Helpp](https://github.com/devlari/Helpp).
+Também estou trabalhando em projetos próprios e fazendo cursos pra ampliar meu conhecimento. 🖥
 
-E-mail para contato 📫: lrss.sousa.silva@gmail.com
+<h2 style="text-align:center">Linguagens & Tecnologias ⚡</h2>
 
+![html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![php Badge](https://img.shields.io/badge/PHP-8993c1?style=for-the-badge&logo=php&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C++-017fcd?style=for-the-badge&logo=C&logoColor=white)
+![CSharp Badge](https://img.shields.io/badge/CSharp-9e6ed8?style=for-the-badge&logo=CSharp&logoColor=white)
+![mysql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![vscode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<h2 style="text-align:center">Entre em contato!</h2>
+
+E-mail 📫: lrss.sousa.silva@gmail.com
+
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-sousa-silva-491893204/) 
 <!--
 **devlari/devlari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
