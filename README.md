@@ -12,7 +12,7 @@ Também estou trabalhando em projetos próprios e fazendo cursos pra ampliar meu
 ![css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![NodeJS Badge](https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=NodeJS&logoColor=F7DF1E)
+![Node Badge](https://img.shields.io/badge/NodeJS?style=for-the-badge&logo=Node&logoColor=92c53f)
 ![php Badge](https://img.shields.io/badge/PHP-8993c1?style=for-the-badge&logo=php&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C++-017fcd?style=for-the-badge&logo=C&logoColor=white)
 ![CSharp Badge](https://img.shields.io/badge/CSharp-9e6ed8?style=for-the-badge&logo=CSharp&logoColor=white)
