@@ -28,9 +28,8 @@ Também estou trabalhando em projetos próprios e fazendo cursos pra ampliar meu
 
 <h2 style="text-align:center">Entre em contato!</h2>
 
-E-mail 📫: lrss.sousa.silva@gmail.com
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-sousa-silva-491893204/)](https://www.linkedin.com/in/larissa-sousa-silva-491893204/)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+📫: lrss.sousa.silva@gmail.com
 <!--
 **devlari/devlari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
