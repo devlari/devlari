@@ -27,6 +27,10 @@ Também estou trabalhando em projetos próprios e fazendo cursos pra ampliar meu
 ![vscode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<img align="left" alt="Larissa GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devlari&show_icons=true&hide_border=true&theme=dracula&count_private=true">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlari&theme=dracula&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2 style="text-align:center">Entre em contato!</h2>
 
 <a href="https://www.linkedin.com/in/larissa-sousa-silva-491893204/">![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
