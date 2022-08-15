@@ -2,7 +2,7 @@
 
 Tenho 19 anos, cursei Informática na __ETEC Prof. Horácio Augusto da Silveira__ 👩🏻‍🎓
 
-Estou no segundo semestre da minha graduação de __Análise e Desenvolvimento de Sistemas__ na universidade Cruzeiro do Sul 💫 
+Estou no terceiro semestre da minha graduação de __Análise e Desenvolvimento de Sistemas__ na universidade Cruzeiro do Sul 💫 
 
 Atualmente, sou __Desenvolvedora Web Júnior__ na empresa ProUnion 👩‍💻
 
