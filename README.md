@@ -1,8 +1,8 @@
 <h2 style="text-align:center">Meu nome é Larissa, prazer! 👋</h2>
 
-Tenho 19 anos, cursei Informática na __ETEC Prof. Horácio Augusto da Silveira__ 👩🏻‍🎓
+Tenho 20 anos, cursei Informática na __ETEC Prof. Horácio Augusto da Silveira__ 👩🏻‍🎓
 
-Estou no terceiro semestre da minha graduação de __Análise e Desenvolvimento de Sistemas__ na universidade Cruzeiro do Sul 💫 
+Estou no último semestre da minha graduação de __Análise e Desenvolvimento de Sistemas__ na universidade Cruzeiro do Sul 💫 
 
 Atualmente, sou __Desenvolvedora Web Júnior__ na empresa ProUnion 👩‍💻
 
