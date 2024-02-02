@@ -1,6 +1,6 @@
 <h2 style="text-align:center">Meu nome é Larissa, prazer! 👋</h2>
 
-Tenho 20 anos, cursei Informática na __ETEC Prof. Horácio Augusto da Silveira__ 👩🏻‍🎓
+Tenho 21 anos, cursei Informática na __ETEC Prof. Horácio Augusto da Silveira__ 👩🏻‍🎓
 
 Sou graduada em __Análise e Desenvolvimento de Sistemas__ na universidade Cruzeiro do Sul 💫 
 
