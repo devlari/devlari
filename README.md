@@ -4,7 +4,7 @@ Tenho 21 anos, cursei Informática na __ETEC Prof. Horácio Augusto da Silveira_
 
 Sou graduada em __Análise e Desenvolvimento de Sistemas__ na universidade Cruzeiro do Sul 💫 
 
-Atualmente, sou __Desenvolvedora Web Júnior__ na empresa ProUnion 👩‍💻
+Atualmente, sou __Desenvolvedora Web__ na ProUnion Software House 👩‍💻
 
 Também estou trabalhando em projetos próprios e fazendo cursos pra ampliar meu conhecimento. 🖥
 
