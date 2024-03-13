@@ -8,7 +8,7 @@ Atualmente, sou __Desenvolvedora Web__ na ProUnion Software House 👩‍💻
 
 Também estou trabalhando em projetos próprios e fazendo cursos pra ampliar meu conhecimento. 🖥
 
-<a href="https://devlari.vercel.app/" target="_blank" style="color: #FF8FAB">Visite meu portfólio!</a>
+<a href="https://devlari.vercel.app/">Visite meu portfólio!</a>
 
 
 <h2 style="text-align:center">Linguagens & Tecnologias ⚡</h2>
