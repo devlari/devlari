@@ -30,9 +30,9 @@ Também estou trabalhando em projetos próprios e fazendo cursos pra ampliar meu
 ![vscode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<img align="left" alt="Larissa GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devlari&show_icons=true&hide_border=true&theme=dracula&count_private=true">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlari&theme=dracula&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=devlari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devlari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devlari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 style="text-align:center">Entre em contato!</h2>
 
