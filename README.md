@@ -32,7 +32,6 @@ Também estou trabalhando em projetos próprios e fazendo cursos pra ampliar meu
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devlari&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devlari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=devlari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <h2 style="text-align:center">Entre em contato!</h2>
 
