@@ -2,14 +2,22 @@
 
 Tenho 22 anos, cursei Informática na __ETEC Prof. Horácio Augusto da Silveira__ 👩🏻‍🎓
 
-Sou graduada em __Análise e Desenvolvimento de Sistemas__ na universidade Cruzeiro do Sul, e possuo pós-graduação em __Engenharia de Software em Métodos Ágeis__ 💫 
+🎓 Graduada em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul  
+📚 Pós-graduada em Engenharia de Software com foco em Métodos Ágeis  
+💼 Desenvolvedora Web na ProUnion Software House
 
-Atualmente, sou __Desenvolvedora Web__ na ProUnion Software House 👩‍💻
+**⚙️ Tecnologias que uso com frequência:**
+- React · JavaScript · TypeScript  
+- HTML5 · CSS3 · Tailwind CSS · Styled-components  
+- Figma · Git · APIs REST
 
-Também estou trabalhando em projetos próprios e fazendo cursos pra ampliar meu conhecimento. 🖥
+✨ Também trabalho em projetos próprios, participo de cursos e busco evoluir constantemente como desenvolvedora.
 
 <a href="https://devlari.vercel.app/">Visite meu portfólio!</a>
 
+### 🌎 Onde me encontrar:
+- [💼 LinkedIn](https://www.linkedin.com/in/larissa-sousa-silva-491893204/)
+- [🧠 Portfólio (em breve)](https://devlari.vercel.app/)
 
 <h2 style="text-align:center">Linguagens & Tecnologias ⚡</h2>
 
@@ -32,11 +40,6 @@ Também estou trabalhando em projetos próprios e fazendo cursos pra ampliar meu
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devlari&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devlari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
-<h2 style="text-align:center">Entre em contato!</h2>
-
-<a href="https://www.linkedin.com/in/larissa-sousa-silva-491893204/">![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-📫: lrss.sousa.silva@gmail.com
 <!--
 **devlari/devlari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
