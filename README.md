@@ -17,7 +17,7 @@ Tenho 22 anos, cursei Informática na __ETEC Prof. Horácio Augusto da Silveira_
 
 ### 🌎 Onde me encontrar:
 - [💼 LinkedIn](https://www.linkedin.com/in/larissa-sousa-silva-491893204/)
-- [🧠 Portfólio (em breve)](https://devlari.vercel.app/)
+- [🧠 Portfólio](https://devlari.vercel.app/)
 
 <h2 style="text-align:center">Linguagens & Tecnologias ⚡</h2>
 
