@@ -4,7 +4,7 @@ Tenho 22 anos, cursei Informática na __ETEC Prof. Horácio Augusto da Silveira_
 
 🎓 Graduada em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul  
 📚 Pós-graduada em Engenharia de Software com foco em Métodos Ágeis  
-💼 Desenvolvedora Web na ProUnion Software House
+💼 Desenvolvedora Front-end na Skyone Solutions
 
 **⚙️ Tecnologias que uso com frequência:**
 - React · JavaScript · TypeScript  
